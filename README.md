@@ -1,5 +1,5 @@
 # omarchy-apocalypse-theme
-Omarchy apocalypse vibes theme with a buch of backgrounds from wallhaven.cc
+Omarchy apocalypse vibes theme with a bunch of backgrounds from wallhaven.cc
 
 # Previews
 <img width="1980" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b747bee-0886-41dc-b17f-34d4adf1dd7e" />
